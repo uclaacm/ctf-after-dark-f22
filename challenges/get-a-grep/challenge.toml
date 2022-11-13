@@ -1,0 +1,9 @@
+slug = "get-a-grep"
+title = "get a grep"
+author = "james"
+value = 15
+description = """It appears as though someone had quite the field day with bash commands and made this [file](bigfile.txt) of random stuff, i wonder if there is a way to extract any useful information from it?"""
+tags = [ "file" ]
+files = ["bigfile.txt"]
+flag = "flag{grep_mastermind}"
+enabled = true 

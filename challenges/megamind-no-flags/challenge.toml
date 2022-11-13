@@ -1,0 +1,10 @@
+slug = "megamind-no-flags"
+title = "No Flags??"
+author = "james"
+value = 20
+description = """This individual known as [megamind](megamind.pdf) has gotten quite the ego, he's even taunting the very cool people in Cyber!
+Show them that we do, in fact, have the inappropriate word that the popular meme mentions!"""
+tags = [ "file" ]
+files = ["megamind.pdf"]
+flag = "flag{no_compan1onship}"
+enabled = true 
