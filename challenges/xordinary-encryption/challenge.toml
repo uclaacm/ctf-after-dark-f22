@@ -1,0 +1,11 @@
+slug = "xordinary-encryption"
+title = "Xordinary Encryption"
+author = "Salma"
+value = 20
+description = """Mwahahaha! you'll never find my [flag](flag.txt)! I have encrypted it so strongly that it is impossible to crack! 
+Wait... what do you mean a single byte isn't enough??
+(Note: The flag you find will not be surrounded by "flag{}". Please add that before submitting)"""
+tags = [ "scripting" ]
+files = ["flag.txt"]
+flag = "flag{0n3_1n_256_4r3_gr34t_0dds}"
+enabled = true 

@@ -1,0 +1,10 @@
+slug = "androids-dream-of-sheep"
+title = "Androids Dream of Sheep"
+author = "Salma"
+value = 30
+description = """Welcome back to my wonderful [world](https://ssalandary.github.io/ScriptingChallenges/) of scripting challenges!
+This time, the droids have taken over and hidden some of my pages (including the flag). Please rescue my flag from the robot invasion!"""
+tags = [ "scripting" ]
+files = []
+flag = "flag{w4ll3_1s_4n_3xc3ll3nt_m0v13}"
+enabled = true 
