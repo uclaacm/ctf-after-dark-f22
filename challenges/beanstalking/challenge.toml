@@ -1,0 +1,9 @@
+slug = "beanstalking"
+title = "Beanstalking"
+author = "Juliet"
+value = 15
+description = """Lima Bean is a senior at Rice University. He used to work as a Project Manager for Super Secure Systems, but recently got a job at Brick. What's his current job title?"""
+tags = [ "osint" ]
+files = []
+flag = "flag{fr0m_beans_t0_bricks}"
+enabled = true 

@@ -1,0 +1,10 @@
+slug = "back-in-my-day"
+title = "Back in My Day"
+author = "Juliet"
+value = 15
+description = """What was the first IP address uclaacm.com was hosted on? 
+Place your answer within flag{}"""
+tags = [ "osint" ]
+files = []
+flag = "flag{192.64.119.64}"
+enabled = true 
