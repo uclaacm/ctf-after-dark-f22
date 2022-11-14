@@ -1,0 +1,10 @@
+slug = "when-it-all-began"
+title = "When It All Began"
+author = "Juliet"
+value = 10
+description = """Starting off with some detective work... Can you figure out when the domain for ACM Cyber's website was created? 
+Answer will be of the form: flag{YYYY-MM-DD}"""
+tags = [ "osint" ]
+files = []
+flag = "flag{2019-09-29}"
+enabled = true 
