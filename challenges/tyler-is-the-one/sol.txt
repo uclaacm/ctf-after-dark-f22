@@ -1,0 +1,5 @@
+unzip alpha.jpg
+"r0fLM@OT1okg00dy3s" embedded in tyler1.jpg
+unzip hidden.zip -> use r0fLM@OT1okg00dy3s as passwd
+zsteg secret.png -> red channel has flag
+flag{th3re$_N0_D3nt}

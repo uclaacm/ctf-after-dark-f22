@@ -1,0 +1,4 @@
+copy appended data of 0's and 1's
+replace 0 with a and 1 with b
+input into bacon cipher
+flag{prettybasicamirite}

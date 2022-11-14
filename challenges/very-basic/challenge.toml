@@ -1,0 +1,9 @@
+slug = "very-basic"
+title = "Very Basic"
+author = "loltyler1dotcom-discount-code-alpha"
+value = 10
+description = """Someone named Indiana University left behind some data however it was corrupted in transit because of AT&T's amazing internet service. [Here](data) is the data that was sent. Can you figure out the original message? Enter the message in lowercase surrounded by flag{}."""
+tags = [ "crypto", "file" ]
+files = [ "data" ]
+flag = "flag{prettybasicamirite}"
+enabled = true
