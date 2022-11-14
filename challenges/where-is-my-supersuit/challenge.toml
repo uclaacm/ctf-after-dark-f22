@@ -1,0 +1,9 @@
+slug = "where-is-my-supersuit"
+title = "Where is my Supersuit?"
+author = "Laura"
+value = 30
+description = """Where is my [supersuit](secretsuit.png)? (Hints for submission: Enter as flag{street_address}, all lowercase. Separate word with underscores. Use standard street abbreviations (i.e. blvd, ln, dr).)"""
+tags = [ "osint" ]
+files = ["secretsuit.png"]
+flag = "flag{1200_park_ave}"
+enabled = true 
