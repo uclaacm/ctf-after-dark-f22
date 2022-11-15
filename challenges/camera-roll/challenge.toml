@@ -1,0 +1,9 @@
+slug = "camera-roll"
+title = "Camera Roll"
+author = "Luke"
+value = 40
+description = """My friend sent me [this](camera_roll.jpg) picture he says contains his entire camera roll and told me something about putting out a fire. Can you put the fire out for me?"""
+tags = [ "file" ]
+files = [ "camera_roll.jpg" ]
+flag = "flag{stop_drop_4nd_rol1}"
+enabled = true 
