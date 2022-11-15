@@ -1,0 +1,9 @@
+slug = "day-and-night"
+title = "Day and Night"
+author = "Jerry"
+value = 15
+description = """Los Angeles is so different and [beautiful](los_angeles.jpg) at night. The key to taking such beautiful photos is to do it in BLACK AND WHITE, and always point your camera towards the skyline, facing out, I guess."""
+tags = [ "steg" ]
+files = [ "los_angeles.jpg" ]
+flag = "flag{pandas_zebras_and_orcas}"
+enabled = true 
