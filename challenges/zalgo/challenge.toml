@@ -1,0 +1,14 @@
+slug = "zalgo"
+title = "Zalgo"
+author = "Jerry"
+value = 30
+description = """
+Here's some code that prints the entire script of [Shrek](shrek.py)! Yup, that's the only thing it does!
+
+Hint: A little Reddit OSINT might be helpful :) We love open source code.
+
+Note: Make sure you have Python 3.10 or later installed."""
+tags = [ "steg" ]
+files = [ "shrek.py" ]
+flag = "flag{accidentally_in_love}"
+enabled = true 
