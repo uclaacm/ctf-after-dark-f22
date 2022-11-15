@@ -1,0 +1,9 @@
+slug = "hop-skip-jump"
+title = "Hop Skip Jump"
+author = "Rory"
+value = 25
+description = """ This [maze](maze.bin) may or may not have some hidden data in it. If it did, it would have been added using this [script](gen.py) """
+tags = [ "scripting" ]
+files = [ "gen.py", "maze.bin" ]
+flag = "flag{never_do_string_manipulation_without_python}"
+enabled = true 
