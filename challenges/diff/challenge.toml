@@ -1,0 +1,12 @@
+slug = "diff"
+title = "Diff"
+author = "Stephen"
+value = 40
+description = """I like listening to my music in mono, but someone broke my converter. Here, listen to [this](doomsday.wav).
+It's supposed to be mono, but the left and right channels are slightly different. Could you help me figure out what the difference is, so I can try to fix it?
+
+(All letters lowercase, separate words by _, and wrap with flag{})"""
+tags = [ "steg" ]
+files = [doomsday.wav]
+flag = "flag{beep_boop}"
+enabled = true 
