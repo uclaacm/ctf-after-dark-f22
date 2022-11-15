@@ -1,0 +1,9 @@
+slug = "senobnesieh"
+title = "Senobnesieh"
+author = "Rory"
+value = 20
+description = """ lla ta siht rebmemer t'nod I ???senobnesieh deman retcarahc noteleks suolucidir [siht](senobnesieh.lmao) s'ereht yltnerappa dna dab gnikaerb gnihctawer m'I. [wow](https://github.com/JavDomGom/videostego) """
+tags = [ "stego" ]
+files = [ "senobnesieh.lmao" ]
+flag = "flag{newer_mandela_effect_just_dropped}"
+enabled = true 
