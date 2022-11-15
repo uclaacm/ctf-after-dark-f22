@@ -1,0 +1,12 @@
+slug = "moanin"
+title = "Moanin"
+author = "Stephen"
+value = 15
+description = """Any true jazzer knows that you're always supposed to listen in mono.
+I got [this track](moanin.wav) from my dad's old records. It's a bit scratched in some spots. Could you help me convert it to mono, and maybe even remove the scratching?
+
+(the flag is 1 word, wrap it with flag{})"""
+tags = [ "steg" ]
+files = ["moanin.wav"]
+flag = "flag{groanin}"
+enabled = true 
