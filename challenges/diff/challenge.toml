@@ -7,6 +7,6 @@ It's supposed to be mono, but the left and right channels are slightly different
 
 (All letters lowercase, separate words by _, and wrap with flag{})"""
 tags = [ "steg" ]
-files = [doomsday.wav]
+files = ["doomsday.wav"]
 flag = "flag{beep_boop}"
 enabled = true 
