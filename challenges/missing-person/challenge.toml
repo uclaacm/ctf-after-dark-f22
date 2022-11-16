@@ -1,0 +1,9 @@
+slug = "missing-person"
+title = "Missing Person"
+author = "Luke"
+value = 15
+description = """I was zipping all my [stuff](stuff.zip) together and realized that I'm missing a person. Could you find them for me?"""
+tags = [ "file " ]
+files = [ "stuff.zip" ]
+flag = "flag{sm00th_op3rator}"
+enabled = true 
