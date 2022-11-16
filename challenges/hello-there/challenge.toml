@@ -1,0 +1,9 @@
+slug = "hello-there"
+title = "Hello There"
+author = "Laura"
+value = 20
+description = """A short time ago, in an Internet close, close by... a certain Cyber Officer definitely did not create an OSINT challenge that definitely is not hiding on a certain social media site owned by Microsoft. Do show your CTF skills by finding the (hypothetical) flag or do not. There is no try."""
+tags = [ "osint" ]
+files = []
+flag = "flag{th1s_isn't_th3_fl4g_y0u're_l00king_f0r}"
+enabled = true 
