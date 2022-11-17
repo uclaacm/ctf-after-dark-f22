@@ -1,0 +1,9 @@
+slug = "lawsOfAviation"
+title = "Laws of Aviation"
+author = "Caoinn"
+value = 10
+description = """Every night before bed I enjoy winding down with some tea and watching my favorite movie. I've managed to memorize the entire script from [memory.](lawsOfAviation.zip)"""
+tags = [ "scripting" ]
+files = ["lawsOfAviation.zip"]
+flag = "flag{honey}"
+enabled = true 
