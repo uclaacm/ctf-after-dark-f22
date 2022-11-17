@@ -1,0 +1,9 @@
+slug = "tar-pit"
+title = "Tar Pit"
+author = "Nik"
+value = 20
+description = """I found this [pit of tar](pit.tgz) that's like, really deep. Can you get to the bottom of it??"""
+tags = [ "scripting" ]
+files = [ "pit.tgz" ]
+flag = "flag{wow_that's_pretty_deep}"
+enabled = true
