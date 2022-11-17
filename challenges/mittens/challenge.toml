@@ -1,0 +1,9 @@
+slug = "mittens"
+title = "Mittens"
+author = "Caoinn"
+value = 15
+description = """Its getting a lot colder and I don't have very good circulation! I want to wear my prettiest pair of mittens to keep my hands warm but it has been a long while since I have last seen them! Can you help me find my [mits?](mits.zip)"""
+tags = [ "scripting" ]
+files = ["mits.zip"]
+flag = "flag{burnforyou}"
+enabled = true 
