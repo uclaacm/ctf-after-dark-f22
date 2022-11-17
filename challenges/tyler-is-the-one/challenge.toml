@@ -1,0 +1,9 @@
+slug = "tyler-is-the-one"
+title = "Tyler is the one"
+author = "loltyler1dotcom-discount-code-alpha"
+value = 30
+description = """Tyler has an incredibly busy [schedule](https://www.youtube.com/watch?v=zMVOBu1cUro). Government agents are after him for being too alpha, disrupting the balance of alpha and beta energy of the world. He is trying to send a secret message but we can't decipher it. [Here](alpha.jpg) is the last trace he left."""
+tags = [ "file" ]
+files = [ "alpha.jpg" ]
+flag = "flag{th3re$_N0_D3nt}"
+enabled = true
